@@ -42,6 +42,7 @@ pip install numpy opencv-python tensorflow keras matplotlib
 ```bash
 python app.py
 ```
+project.ipynb for training on your own data and then replace the trained model path 
 
 
 ## Contributing  🤝
